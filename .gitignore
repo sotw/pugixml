@@ -1,2 +1,7 @@
 /build/
 /.vscode/
+bazel-bin
+bazel-out
+bazel-pugixml
+bazel-testlogs
+pugixml-check
